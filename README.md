@@ -112,6 +112,6 @@ Resposta no formato:
 Observações: não foi possível retornar conteúdo com o HttpStatus 204 (NO_CONTENT)
 
 ## Correções principais a serem feitas:
-- As datas de validade não estão sendo tratadas com o tipo Date, apenas como String
-- Foram adicionadas algumas Annotations de validação, mas as mensagens de erro não estão sendo retornadas corretamente nas mensagens de resposta
+- As datas de validade não estão sendo tratadas com o tipo Date, apenas como String;
+- Foram adicionadas algumas Annotations de validação, mas as mensagens de erro não estão sendo retornadas corretamente nas mensagens de resposta;
 - Adequação do formato das respostas.
